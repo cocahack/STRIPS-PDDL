@@ -15,9 +15,3 @@ Blocks world
 
 You have to move the block with your robot arm to solve the problem.<br/>
 
-[Initial state]
------
-| C |
------
-| A |
------
