@@ -20,6 +20,6 @@ The initial state and target state are as follows.<br/>
 Hanoi of tower
 -------------
 
-Let p1, p2, p3 be the columns from the left, and all of the disks are stacked on p1 in turn. 
+Let p1, p2, p3 be the columns from the left, and all of the disks are stacked on p1 in turn. <br/>
 You should plan to move all the disks to p3 with STRIPS.
 ![Alt text](./image/hanoi.JPG)
