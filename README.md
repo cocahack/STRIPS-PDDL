@@ -10,6 +10,14 @@ You can plan through the PDDL editor.
 
 See [here](http://users.cecs.anu.edu.au/~patrik/pddlman/writing.html).
 
+How to run
+-----------
+
+You can take [this link](http://editor.planning.domains/) and run the pddl file.<br>
+
+From the File menu, click the load button to load the domain and problem files.<br>
+Then press the solve button, select the domain and problem files, and press the solve button.<br>
+
 Blocks world
 ------------
 
