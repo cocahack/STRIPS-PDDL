@@ -15,4 +15,4 @@ Blocks world
 
 You have to move the block with your robot arm to solve the problem.<br/>
 The initial state and target state are as follows.<br/>
-![Alt text](./image/blocksworld.jpg)
+![Alt text](image/blocksworld.jpg)
